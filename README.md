@@ -2,7 +2,7 @@
 
 ## I'm a student.
 
-[<img align="left" alt="DougAdkins | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+![YOUR github stats](https://github-readme-stats.vercel.app/api?username=DougAdkins)
 <!--
 **DougAdkins/DougAdkins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/tony-danilo-froes-95a036177/)
 
-[linkedin]: https://www.linkedin.com/in/tony-danilo-froes-95a036177/
 
