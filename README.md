@@ -1,7 +1,6 @@
 ### Hi there, I'm Tony 👋
 
 ## I'm a student.
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DougAdkins&hide=javascript,html)](https://github.com/DougAdkins/github-readme-stats)
 <!--
 **DougAdkins/DougAdkins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
